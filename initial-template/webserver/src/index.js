@@ -1,6 +1,6 @@
 import http from 'node:http'
 import fs from 'node:fs/promises'
-import { join } from  'node:path'
+import { join } from 'node:path'
 import url from 'node:url'
 import Routes from './routes.js'
 import { logger } from './util.js'
